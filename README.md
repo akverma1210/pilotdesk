@@ -1,5 +1,9 @@
 # PilotDesk
 
+**Live demo:** [Open PilotDesk](https://akverma1210.github.io/pilotdesk/)
+
+Try the hosted version without installing anything. It runs entirely in your browser and stores workspace data in that browser's localStorage. Clearing site data removes saved work, so export a JSON backup before switching browsers or devices. The optional Electron desktop shell is available from the source code.
+
 A calm, local-first desktop workspace for tasks, projects, notes and focused work.
 
 PilotDesk brings the shape of a desktop operating system to personal productivity: one shell, a small set of focused modules, fast keyboard navigation and data that stays on your device. It is an original React and TypeScript implementation, not a fork or a copy of another project's code or history.
@@ -107,6 +111,11 @@ Clearing site data or removing the desktop profile removes locally saved work, s
 3. Small modules are easier to understand and extend.
 4. Motion and color should support attention, not compete for it.
 
-## License
+## Copyright, attribution and license
 
-MIT
+**Original author:** [Anand Kishor Verma](https://github.com/akverma1210)  
+**Original repository:** [akverma1210/pilotdesk](https://github.com/akverma1210/pilotdesk)
+
+Copyright (c) 2026 Anand Kishor Verma. This project is available under the [MIT License](LICENSE).
+
+The MIT License permits copying, modification and redistribution, and requires the copyright and permission notices in `LICENSE` to be included in all copies or substantial portions of the software. Keep that file intact when reusing or sharing this project. Credit to the original author and a link back to this repository are appreciated, but the license does not require a public contributor credit and these notices cannot prevent copying.
